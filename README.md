@@ -6,7 +6,7 @@
 
 [Online Pages](https://chokcoco.github.io/CSS-Inspiration/#/)
 
-## Layout
+## Layout 
 
 + [CSS实现瀑布流布局（display: flex）](https://chokcoco.github.io/CSS-Inspiration/#/./layout/flex-waterfalls-flow.md) 
 + [CSS实现瀑布流布局（colum+count）](https://chokcoco.github.io/CSS-Inspiration/#/./layout/colum-waterfalls-flow.md)
